@@ -1,6 +1,6 @@
 <h1 align="center">Muhammad Al-Ashmawy</h1>
 <h3 align="center">A Data-Drivren Engineer</h3>
-<p><img align="center" height = 100% width = 100% src = "https://carto.com/blog/img/posts/2017/2017-11-17-spatial-data-science-trends-2018/hochiminh.gif"/></p>
+<img align="center" height = 100% width = 100% src = "https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/timser.gif"/>
 
 - 🌱 I’m currently learning **MongoDB, BigData**
 

@@ -22,9 +22,10 @@
 
 <p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashmaawyy&theme=react" alt="ashmaawyy" /></p>
 
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashmaawyy&show_icons=true&locale=en&layout=compact&theme=react" alt="ashmaawyy" /></p>
+
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=ashmaawyy&show_icons=true&locale=en&theme=react" alt="ashmaawyy" /></p>
 
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashmaawyy&show_icons=true&locale=en&layout=compact&theme=react" alt="ashmaawyy" /></p>
 
 <h3 align = "center">⚡ Recent GitHub Activity</h3>
   <br/>

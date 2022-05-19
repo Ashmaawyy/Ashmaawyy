@@ -26,7 +26,7 @@
 
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashmaawyy&show_icons=true&locale=en&layout=compact&theme=react" alt="ashmaawyy" /></p>
 
-<p align = "center"><summary><b>⚡ Recent GitHub Activity</b></summary></p>
+<h3 align = "center">⚡ Recent GitHub Activity</h3>
   <br/>
    <a href="https://github.com/Ashmaawyy"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashmaawyy&custom_title=Ashmawy's%20Contributions&theme=react-dark" /></a>
   <br/>

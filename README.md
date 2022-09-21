@@ -2,13 +2,13 @@
 <h3 align="center">A Data Engineer</h3>
 <p align = "center"><img height = 100% width = 100% src = "https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/timser.gif"/></p>
 
-- 🌱 I’m currently learning **BigData**, **Java**, **Scala**
+- 🌱 I’m currently learning **BigData**, **Java**, **Apache Spark**, **SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashmaawyy](https://github.com/Ashmaawyy)
 
 - 📫 How to reach me **al_ashmawy@outlook.com**
 
-- 📄 Know about my experiences [Muhammad Al-Ashmawy's CV](https://drive.google.com/file/d/17PZCiq0marxZDaGtmoNiK1RmyD9peemU/view?usp=sharing)
+- 📄 Know about my experiences [Muhammad Al-Ashmawy's CV](https://drive.google.com/file/d/1KVgwbxbwXgbtpXhq2dq_74m28S1T5a2u/view?usp=sharing)
 
 <h3 align = "left"> Find me on the web </h3>
 <p align="left">

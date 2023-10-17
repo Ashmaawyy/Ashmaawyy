@@ -6,9 +6,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashmaawyy](https://github.com/Ashmaawyy)
 
-- 📫 How to reach me **al_ashmawy@outlook.com**
+- 📫 How to reach me **muhammad.al_ashmawy@outlook.com**
 
-- 📄 Know about my experiences [Muhammad Al-Ashmawy's CV](https://drive.google.com/file/d/1bnT6tUeTzRE6wtvUpqdFxDx8uQ4amwK5/view?usp=sharing)
+- 📄 Know about my experiences [Muhammad Al-Ashmawy's CV](https://drive.google.com/file/d/1teXqDQZ5EpwBXzyMk32QRM-_z3xhIW6S/view?usp=drive_link)
 
 <h3 align = "left"> Find me on the web </h3>
 <p align="left">

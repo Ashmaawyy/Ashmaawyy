@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **muhammad.al_ashmawy@outlook.com**
 
-- 📄 Know about my experiences [Muhammad Al-Ashmawy's CV](https://drive.google.com/file/d/1vZ8c6A07oy5vB2IAs1R3gW7rL3FrlrMS/view?usp=sharing)
+- 📄 Know about my experiences [Muhammad Al-Ashmawy's Resume](https://drive.google.com/file/d/1vZ8c6A07oy5vB2IAs1R3gW7rL3FrlrMS/view?usp=sharing)
 
 <h3 align = "left"> Find me on the web </h3>
 <p align="left">

@@ -2,13 +2,11 @@
 <h3 align="center">A Data-Driven Engineer</h3>
 <p align = "center"><img height = 100% width = 100% src = "https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/timser.gif"/></p>
 
-- 🌱 I’m currently learning **BigData**, **Pyspark**, **SQL**, **Apache Kafka**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Ashmaawyy](https://github.com/Ashmaawyy)
 
 - 📫 How to reach me **muhammad.al_ashmawy@outlook.com**
 
-- 📄 Know about my experiences [Muhammad Al-Ashmawy's Resume](https://drive.google.com/file/d/1TqTgOAjn2hyxMi4zaQ7kn0iyy5KvhLKo/view?usp=sharing)
+- 📄 Know about my experiences [Muhammad Al-Ashmawy's Resume](https://drive.google.com/file/d/1F-izSAtljSAtjND8Otu1OSsA72vglMsH/view?usp=drive_link)
 
 <h3 align = "left"> Find me on the web </h3>
 <p align="left">

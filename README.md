@@ -1,6 +1,6 @@
 <h1 align="center">Muhammad Al-Ashmawy</h1>
 <h3 align="center">Data-Driven Engineer</h3>
-<p align = "center"><img height = 50% width = 50% src = "https://uploads-us-west-2.insided.com/lucid-us/attachment/73711b7d-d4cf-4d4c-b04c-11d479ea35f2.gif"/></p>
+<p align = "center"><img height = 100% width = 100% src = "https://uploads-us-west-2.insided.com/lucid-us/attachment/73711b7d-d4cf-4d4c-b04c-11d479ea35f2.gif"/></p>
 
 - 📄 Know about my experiences [Muhammad Al-Ashmawy's Resume](https://drive.google.com/file/d/1AFPKpTjwDdeB1_MmqoxXlvj5CW6a5D8_/view?usp=sharing)
 

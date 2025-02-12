@@ -2,10 +2,10 @@
 <h3 align="center">Data-Driven Engineer</h3>
 <p align = "center"><img height = 100% width = 100% src = "https://uploads-us-west-2.insided.com/lucid-us/attachment/73711b7d-d4cf-4d4c-b04c-11d479ea35f2.gif"/></p>
 
-- 📄 Know about my experiences [Muhammad Al-Ashmawy's Resume](https://drive.google.com/file/d/1AFPKpTjwDdeB1_MmqoxXlvj5CW6a5D8_/view?usp=sharing)
+- 📄 Know about my experiences [Muhammad Al-Ashmawy's Resume](https://drive.google.com/file/d/1__H-pGMU-nB2iHk65x9-_j5BkdqOwQGm/view?usp=sharing)
 
-<h3 align = "left"> How to reach me </h3>
-<p align="left">
+<h3 align = "center"> How to reach me </h3>
+<p align="center">
 <a href="https://linkedin.com/in/ashmaawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashmaawy" height="30" width="40" /></a>
 </p>
 

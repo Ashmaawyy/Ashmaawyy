@@ -1,17 +1,59 @@
-<h1 align="center">Muhammad Al-Ashmawy</h1>
-<h3 align="center">Data-Driven Engineer</h3>
-<p align = "center"><img height = 60% width = 60% src = "https://uploads-us-west-2.insided.com/lucid-us/attachment/73711b7d-d4cf-4d4c-b04c-11d479ea35f2.gif"/></p>
+# Hey, I'm Muhammad Al-Ashmawy ✨
 
-- 📄 Know about my experiences [Muhammad Al-Ashmawy's Resume](https://drive.google.com/file/d/1__H-pGMU-nB2iHk65x9-_j5BkdqOwQGm/view?usp=sharing)
+Welcome to my little corner of GitHub! I'm all about **data, automation, and AI-driven insights**. Whether it's **scraping the web**, **building real-time dashboards**, or **engineering data pipelines**, you'll find me making sense of raw data and turning it into something awesome. 🌍💡
 
-<h3 align = "center"> How to reach me </h3>
-<p align="center">
-<a href="https://linkedin.com/in/ashmaawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashmaawy" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align = "center"> Techstack </h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"></a> <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/wordmark_2.png?api=v2" width="30" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/2560px-Cassandra_logo.svg.png" width="40" height="40"> <br> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgres" width="40" height="40"> </a> </p>
+## 🔥 Who Am I?
+- 🏗 **Data Engineer & Big Data Explorer**
+- 🤖 Passionate about **Big Data, APIs, and Automation**
+- 🛠 Fluent in **Python, SQL, MongoDB, PostgreSQL, and Airflow**
+- 🎯 Crafting **real-time dashboards & scalable data workflows**
+- 🌱 Experimenting with **Data Piplines, Big Data Analytics, and Cloud Magic**
 
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashmaawyy&show_icons=true&locale=en&layout=compact&theme=react" alt="ashmaawyy" /></p>
-<p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashmaawyy&theme=react" alt="ashmaawyy" /></p>
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=ashmaawyy&show_icons=true&locale=en&theme=react" alt="ashmaawyy" /></p>
+---
+
+## ⭐ Most Proud Projects
+### 🚀 The Collector Series
+A **badass suite of automated data collectors** that hunt down, organize, and visualize real-time insights:
+
+| ⚡ Collector | 🎯 What It Does |
+|-------------|-------------|
+| **📰 The News Collector** | Tracks & analyzes breaking news worldwide 📢 |
+| **📚 The Scientific Collector** | Fetches & organizes cutting-edge research papers 🔬 |
+| **📈 The Market Collector** | Monitors real-time stock & crypto trends 📊 |
+| **📡 The Trend Collector** | Gathers trending topics from social media 🔥 |
+
+---
+
+## 🛠 My Tech Stack
+
+🚀 **Languages & Databases:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+🛠 **Frameworks & Tools:**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Dash](https://img.shields.io/badge/Plotly%20Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
+---
+
+## 📊 GitHub Vibes
+
+🔥 **Most Used Languages:**   
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmaawyy&layout=compact&theme=tokyonight)    
+
+🚀 **My Contributions:**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashmaawyy&show_icons=true&theme=tokyonight)    
+
+---
+
+## 🌍 Connect With Me
+💼 **LinkedIn:** [Muhammad Al-Ashamwy](https://www.linkedin.com/in/ashmaawy/)    
+📧 **Email:** [muhammad.al_ashmawy@outlook.com](mailto:muhammad.al_ashmawy@outlook.com)  
+
+💡 *Let’s connect and build something awesome!* 🤝✨
+
+---
+
+### ⭐ **Like what you see? Drop a star!** ⭐

@@ -32,7 +32,7 @@ A **badass suite of automated data collectors** that hunt down, organize, and vi
 🐍 **Python** | 🐘 **PostgreSQL** | 🍃 **MongoDB** | 🌌 **Apache Cassandra** | 🐬 **MySQL**
 
 🛠 **Frameworks & Tools:**  
-⚗️ **Flask** | 🎈 **Apache Airflow** | 🏢 **Amazon Redshift** | ❄️ **Snowflake**  
+🌶️ **Flask** |  💨 **Apache Airflow** | 🏢 **Amazon Redshift** | ❄️ **Snowflake**  
 
 ---
 

@@ -29,10 +29,10 @@ A **badass suite of automated data collectors** that hunt down, organize, and vi
 ## 🛠 My Tech Stack
 
 🚀 **Languages & Databases:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+🐍 **Python** | 🐘 **PostgreSQL** | 🍃 **MongoDB** | 🌌 **Apache Cassandra** | 🐬 **MySQL**
 
 🛠 **Frameworks & Tools:**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Dash](https://img.shields.io/badge/Plotly%20Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+⚗️ **Flask** | 🎈 **Apache Airflow** | 🏢 **Amazon Redshift** | ❄️ **Snowflake**  
 
 ---
 

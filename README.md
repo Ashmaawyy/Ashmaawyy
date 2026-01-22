@@ -36,18 +36,6 @@ A **badass suite of automated data collectors** that hunt down, organize, and vi
 
 ---
 
-## 📊 GitHub Vibes
-
-🔥 **Most Used Languages:**   
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmaawyy&layout=compact&theme=tokyonight)    
-
-🚀 **My Contributions:**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashmaawyy&show_icons=true&theme=tokyonight)    
-
----
-
 ## 🌍 Connect With Me
 💼 **LinkedIn:** [Muhammad Al-Ashamwy](https://www.linkedin.com/in/ashmaawy/)    
 📧 **Email:** [muhammad.al_ashmawy@outlook.com](mailto:muhammad.al_ashmawy@outlook.com)  

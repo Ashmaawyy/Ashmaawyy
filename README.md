@@ -41,20 +41,6 @@ I design and build **real-time, event-driven data systems** that transform high-
 
 ---
 
-## 🔥 Selected Projects
-
-### 🚀 The Collector Series
-A suite of automated data collectors that gather, process, and expose real-time insights:
-
-| Collector | What It Does |
-|----------|-------------|
-| 📰 **News Collector** | Tracks and analyzes global news signals |
-| 📚 **Scientific Collector** | Aggregates and organizes research papers |
-| 📈 **Market Collector** | Monitors real-time financial trends |
-| 📡 **Trend Collector** | Captures trending topics across platforms |
-
----
-
 ## 🛠 Tech Stack
 
 **Languages & Databases**  

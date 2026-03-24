@@ -1,6 +1,6 @@
 # Hey, I'm Muhammad Al-Ashmawy ⚙️🧠
 
-I operate across two domains:
+I operate across two domains, building systems that move data and systems that reason about it:
 
 - **AI Research in Neurosymbolic Reasoning & Philosophy**
 - **Real-Time & Event-Driven Data Engineering**
